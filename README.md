@@ -54,4 +54,4 @@ License
 
 Licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
 
-Bu örnek [Hamile soru cevap](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.androidsx%22%20AND%20a%3A%22rate-me%22) sitesinin uygulamasında kullanılmıştır.
+Bu örnek [Hamile soru cevap](https://hamilesorucevap.annelertoplandik.com) sitesinin uygulamasında kullanılmıştır.
